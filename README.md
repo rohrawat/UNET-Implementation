@@ -8,4 +8,5 @@ Data augmentation is done using keras ImageDataGenerator as only 30 images were 
 I developed this arhictecture using tensorflow and keras.<br>
 I trained this model for 5 epochs and used 1000 steps per epoch.<br>
 I got the accuracy of 95%.<br>
-I have included the prediction in results folder.
+I have included the prediction in results folder.<br>
+UNET.py file is the exact replica of architecture as the input in architecture is 572 * 572 image and output is 388 * 388 image.
